@@ -261,5 +261,5 @@ Overall Accuracy: **~97–98%**
 
 ## 👤 Author
 
-**Your Name Here**
+**Vibhanshu**
 Built for learning purposes — FastAPI + ML beginner project.
